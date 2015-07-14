@@ -1,2 +1,2 @@
 # ios
-dragaonSMASH iOS client app
+dragonSMASH iOS client app
